@@ -1,0 +1,8 @@
+E:\Viselica\Viselica\bin\Debug\Viselica.exe
+E:\Viselica\Viselica\bin\Debug\Viselica.pdb
+E:\Viselica\Viselica\obj\Debug\Viselica.csprojResolveAssemblyReference.cache
+E:\Viselica\Viselica\obj\Debug\Viselica.Form1.resources
+E:\Viselica\Viselica\obj\Debug\Viselica.Properties.Resources.resources
+E:\Viselica\Viselica\obj\Debug\Viselica.csproj.GenerateResource.Cache
+E:\Viselica\Viselica\obj\Debug\Viselica.exe
+E:\Viselica\Viselica\obj\Debug\Viselica.pdb

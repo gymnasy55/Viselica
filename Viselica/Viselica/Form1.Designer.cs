@@ -36,7 +36,7 @@
             // ImageBox1
             // 
             this.ImageBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("ImageBox1.BackgroundImage")));
-            this.ImageBox1.Location = new System.Drawing.Point(553, 243);
+            this.ImageBox1.Location = new System.Drawing.Point(574, 256);
             this.ImageBox1.Name = "ImageBox1";
             this.ImageBox1.Size = new System.Drawing.Size(190, 260);
             this.ImageBox1.TabIndex = 0;
@@ -50,7 +50,7 @@
             this.Controls.Add(this.ImageBox1);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Viselica";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.ImageBox1)).EndInit();
             this.ResumeLayout(false);

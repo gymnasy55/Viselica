@@ -5,6 +5,10 @@ using System.Windows.Forms;
 
 namespace Viselica
 {
+    static class Data
+    {
+        public static string Word { get; set; }
+    }
     static class Program
     {
         /// <summary>
@@ -15,7 +19,7 @@ namespace Viselica
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form2());
         }
     }
 }
